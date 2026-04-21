@@ -50,7 +50,7 @@ export default function QuizPage() {
 
           {/* Tips */}
           <section className="mt-12">
-            <h2 className="text-2xl font-bold mb-6 bg-gradient-to-r from-saffron to-bharat_green bg-clip-text text-transparent">💡 {t('quiz.tips')}}</h2>
+            <h2 className="text-2xl font-bold mb-6 bg-gradient-to-r from-saffron to-bharat_green bg-clip-text text-transparent">💡 {t('quiz.tips')}</h2>
             <div className="card bg-gradient-to-r from-bharat_blue/10 to-secondary border border-bharat_blue/30">
               <ul className="text-gray-400 space-y-3">
                 <li>
